@@ -1,0 +1,9 @@
+.trans-anime{
+    height:100px;
+    width:100px;
+    position:absolute;
+    top:20%;
+    left:20%;
+    background-color: aquamarine;
+    transform: scale(1.5,0.4);
+}
