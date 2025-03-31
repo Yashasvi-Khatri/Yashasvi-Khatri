@@ -12,7 +12,7 @@
 ### 🚀 About Me:
 - 🌱 I’m currently mastering the **MERN stack** & exploring **Generative AI**.
 - 💡 I love building interactive web apps & exploring **Machine Learning**.
-- 📫 How to reach me: yashasvi@example.com
+- 📫 How to reach me: khatriyashasvi425@gmail.com
 
 ---
 
@@ -45,12 +45,8 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yashasvikhatri&show_icons=true&locale=en" alt="yashasvikhatri" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashasvikhatri&show_icons=true&locale=en&layout=compact" alt="yashasvikhatri" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashasvikhatri&" alt="yashasvikhatri" /></p>
+### 📊 Most Used Languages:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashasvikhatri&show_icons=true&locale=en&layout=compact&langs_count=8" alt="yashasvikhatri" /></p>
 
 ---
 
