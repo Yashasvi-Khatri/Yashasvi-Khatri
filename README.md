@@ -11,7 +11,7 @@
   <p>
     🌱 Currently mastering the <b>MERN Stack</b> and diving into <b>Generative AI</b>.<br>
     💡 I enjoy crafting interactive web apps and exploring <b>Machine Learning</b>.<br>
-    📫 Reach me at: <a href="mailto:yashasvi@example.com">yashasvi@example.com</a>
+    📫 Reach me at: <a href="mailto: khatriyashasvi425@gmail.com">khatriyashasvi425@gmail.com</a>
   </p>
 </div>
 
