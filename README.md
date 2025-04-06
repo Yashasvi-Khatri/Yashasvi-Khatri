@@ -64,6 +64,15 @@
     <a href="https://www.python.org/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
     </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+    </a>
+    <a href="https://ejs.co/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="EJS" width="50" height="50"/>
+    </a>
+    <a href="https://nixos.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" alt="Nix" width="50" height="50"/>
+    </a>
   </p>
 </div>
 
