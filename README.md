@@ -9,9 +9,9 @@
 <div align="center">
   <h2>🚀 About Me</h2>
   <p>
-    🌱 Currently mastering the <b>MERN Stack</b> and diving into <b>Generative AI</b>.<br>
+    🌱Building AI-powered full-stack products</b> and diving into <b>Generative AI</b>.<br>
     💡 I enjoy crafting interactive web apps and exploring <b>Machine Learning</b>.<br>
-    📫 Reach me at: <a href="mailto: khatriyashasvi425@gmail.com">khatriyashasvi425@gmail.com</a>
+    📫 Reach me at: <a href="mailto: yashasvikhattri@gmail.com">khatriyashasvi425@gmail.com</a>
   </p>
 </div>
 
