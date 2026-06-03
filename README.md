@@ -11,7 +11,7 @@
   <p>
     🌱Building AI-powered full-stack products</b> and diving into <b>Generative AI</b>.<br>
     💡 I enjoy crafting interactive web apps and exploring <b>Machine Learning</b>.<br>
-    📫 Reach me at: <a href="mailto: yashasvikhattri@gmail.com">khatriyashasvi425@gmail.com</a>
+    📫 Reach me at: <a href="mailto: yashasvikhattri@gmail.com">yashasvikhattri@gmail.com</a>
   </p>
 </div>
 
