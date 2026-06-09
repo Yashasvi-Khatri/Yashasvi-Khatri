@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hey, I’m Yashasvi Khatri!</h1>
+  <h1>👋 Hey, I’m Yashasvi Khattri!</h1>
   <h3>A Passionate MERN Stack Developer from India 🌍</h3>
   <img src="https://komarev.com/ghpvc/?username=Yashasvi-Khatri&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
